@@ -1,3 +1,5 @@
+def foo1():
+    return
 new string
 def foo2(arg=1):
     return arg * 2
